@@ -44,7 +44,7 @@
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 .blog-preview h2 {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #f1356d;
   margin-bottom: 8px;
 }
@@ -54,7 +54,7 @@
 
 /* blog details page */
 .blog-details h2 {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #f1356d;
   margin-bottom: 10px;
 }
@@ -79,17 +79,17 @@
 .create label {
   text-align: left;
   display: block;
-  font-size: 18px;
+  font-size: 1.12rem;
   line-height: 21px;
   font-weight: 500;
   color: whitesmoke;
   font-family: sans-serif;
 }
 .B {
-  font-size: 41px;
+  font-size: 2.56rem;
 }
 .create h2 {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #f1356d;
   margin-bottom: 30px;
 }
