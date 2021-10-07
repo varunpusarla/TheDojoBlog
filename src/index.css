@@ -45,7 +45,7 @@
 }
 .blog-preview h2 {
   font-size: 1.25rem;
-  color: #f1516d;
+  color: #f1356d;
   margin-bottom: 8px;
 }
 .blog-preview a {
@@ -55,7 +55,7 @@
 /* blog details page */
 .blog-details h2 {
   font-size: 1.25rem;
-  color: #f1516d;
+  color: #f1356d;
   margin-bottom: 10px;
 }
 .blog-details div {
@@ -79,7 +79,7 @@
 .create label {
   text-align: left;
   display: block;
-  font-size: 18px;
+  font-size: 1.12rem;
   line-height: 21px;
   font-weight: 500;
   color: whitesmoke;
@@ -90,7 +90,7 @@
 }
 .create h2 {
   font-size: 1.25rem;
-  color: #f1516d;
+  color: #f1356d;
   margin-bottom: 30px;
 }
 .create input,
